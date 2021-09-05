@@ -1,6 +1,6 @@
 # Desafio GCP Dataproc
 
-Neste repostório é apresentado o desafio do curso de Data Engineer da DIO (Digital Innovation One), denominado:
+Neste repositório é apresentado o desafio do curso de Data Engineer da DIO (Digital Innovation One), denominado:
 
 ***Criando um ecossistema Hadoop totalmente gerenciado com Google Cloud Platform***
 

@@ -4,6 +4,8 @@ Neste repositório é apresentado o desafio do curso de Data Engineer da DIO (Di
 
 ***Criando um ecossistema Hadoop totalmente gerenciado com Google Cloud Platform***
 
+Nesse projeto foi realizado o processamento de dados utilizando o Dataproc do GCP. Esse processamento efetua a contagem das palavras de um livro e informa o número de vezes que cada palavra aparece no arquivo.
+
 A instruções do desafio podem ser vistas com mais detalhes no link https://github.com/marcelomarques05/dio-desafio-dataproc
 
 :books: Esse repositório contém:
